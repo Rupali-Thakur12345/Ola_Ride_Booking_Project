@@ -5,20 +5,20 @@ This project analyzes 1,00,000+OLA ride bookings using SQL and visulizes insight
 The goal is to understand booking patterns, customer behavior, cancellation,revenue contribution and driver-customer performance metrics.
 
 --Tech Stack--
-  My SQL- Data cleaning, transformation & analysis
-  Power BI- Dashboard creation & data visualization
-  Excel(optional, raw data)
+  -My SQL- Data cleaning, transformation & analysis
+  -Power BI- Dashboard creation & data visualization
+  -Excel(optional, raw data)
 
 --SQL Analysis--
-  Successful booing filter
-  average ride distance for each vhicle type
-  total number of canceled rides by customer
-  top 5 customer who booked the higest number of ride
-  the number of ride canceled by drivers due to personal and car-related issues
-  th maxmiun and minimun driver rating dor prime sedan booking
-  the average customer rating per vehicle type
-  the total booking value of rides complete successfull
-  all the incomplete ride alomg with reason
+  -Successful booking filter
+  -average ride distance for each vhicle type
+  -total number of canceled rides by customer
+  -top 5 customer who booked the higest number of ride
+  -the number of ride canceled by drivers due to personal and car-related issues
+  -the maxmiun and minimun driver rating dor prime sedan booking
+  -the average customer rating per vehicle type
+  -the total booking value of rides complete successfull
+  -all the incomplete ride alomg with reason
   
 --Power BI--
   1. Overall Summary
