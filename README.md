@@ -5,9 +5,9 @@ This project analyzes 1,00,000+OLA ride bookings using SQL and visulizes insight
 The goal is to understand booking patterns, customer behavior, cancellation,revenue contribution and driver-customer performance metrics.
 
 --Tech Stack--
-My SQL- Data cleaning, transformation & analysis
-Power BI- Dashboard creation & data visualization
-Excel(optional, raw data)
+  My SQL- Data cleaning, transformation & analysis
+  Power BI- Dashboard creation & data visualization
+  Excel(optional, raw data)
 
 --SQL Analysis--
   Successful booing filter
