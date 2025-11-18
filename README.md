@@ -56,7 +56,11 @@ Ride volumne is highest around mid-October as seen in trend analysis
 
 <img width="1561" height="827" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/f10ba16b-39b6-4bff-8bec-351efcec2855" />
 
-<img width="1325" height="796" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/5bfbfe84-25d6-404e-a14b-c47606f18a3a" />
+<img width="1325" height="796" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/5bfbfe84-25d6-404e-a14b-c47606f18a3a" />  
 
-<img width="1457" height="619" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/78fb5f0c-812c-4b2e-b1d5-8650bedd0d6a" />
+<img width="1194" height="688" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/7f9fd3a7-a90c-43e6-a784-dd229e3e2446" />
+
+
+
+
 
