@@ -1,4 +1,4 @@
-# Ola_Ride_Booking_Project
+
 ## Project Overview
 
 This project analyzes 1,00,000+OLA ride bookings using SQL and visulizes insights through an interactive Power BI darshboard.
@@ -50,13 +50,13 @@ Driver ratings vary significantly for luxury vehicle type
 Ride volumne is highest around mid-October as seen in trend analysis
 
 --images--
+<img width="1341" height="755" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/d2dd04f3-fed2-4931-ae2e-5a727ccc3bde" />
 
-     
-     
+<img width="1514" height="826" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/50060bd8-ce65-4b93-8c17-dd627b75f841" />
 
+<img width="1561" height="827" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/f10ba16b-39b6-4bff-8bec-351efcec2855" />
 
+<img width="1325" height="796" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/5bfbfe84-25d6-404e-a14b-c47606f18a3a" />
 
+<img width="1457" height="619" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/78fb5f0c-812c-4b2e-b1d5-8650bedd0d6a" />
 
-
-
-        
